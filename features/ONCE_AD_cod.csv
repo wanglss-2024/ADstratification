@@ -1,0 +1,78 @@
+,Variable,Description,relatedness_to_target_disease,high_confidence_level
+1,PheCode:290,delirium dementia and amnestic and other cognitive disorders,1,1
+3,PheCode:290.1,dementias,0.815,1
+8,PheCode:290.16,vascular dementia,0.775,1
+2,PheCode:290.11,alzheimer's disease,0.746,1
+4,PheCode:290.12,dementia with cerebral degenerations,0.642,1
+5,PheCode:290.13,senile dementia,0.63,1
+10,RXNORM:135447,donepezil,0.621,1
+6,RXNORM:6719,memantine,0.598,1
+7,PheCode:292.2,mild cognitive impairment,0.56,1
+13,PheCode:290.3,other persistent mental disorders due to conditions classified elsewhere,0.507,1
+9,RXNORM:183379,rivastigmine,0.498,1
+14,PheCode:292,neurological disorders,0.486,1
+15,PheCode:331.9,"cerebral degeneration, unspecified",0.466,1
+12,RXNORM:4637,galantamine,0.465,1
+11,PheCode:292.3,memory loss,0.457,1
+16,PheCode:433,cerebrovascular disease,0.372,1
+24,PheCode:949.1,diaper or napkin rash,0.359,1
+38,PheCode:292.4,altered mental status,0.355,1
+33,PheCode:368.91,psychophysical visual disturbances,0.337,1
+25,PheCode:332,parkinson's disease,0.326,1
+20,PheCode:295.3,psychosis,0.324,1
+21,PheCode:350.2,abnormality of gait,0.323,1
+22,RXNORM:103990,carbidopa/levodopa,0.32,1
+39,PheCode:433.12,cerebral atherosclerosis,0.31,1
+42,PheCode:260.3,adult failure to thrive,0.304,1
+56,RXNORM:1791685,pimavanserin,0.304,1
+36,PheCode:291.8,alteration of consciousness,0.303,1
+31,RXNORM:25025,finasteride,0.299,1
+41,RXNORM:51272,quetiapine,0.299,1
+30,RXNORM:77492,tamsulosin,0.29,1
+32,PheCode:346.2,nonspecific abnormal results of function study of brain and central nervous system,0.289,1
+60,PheCode:315,develomental delays and disorders,0.285,1
+29,RXNORM:11248,cyanocobalamin,0.284,1
+48,RXNORM:15996,mirtazapine,0.284,1
+72,PheCode:290.2,delirium due to conditions classified elsewhere,0.284,1
+47,RXNORM:1307767,lavender,0.283,1
+34,PheCode:433.8,late effects of cerebrovascular disease,0.282,1
+57,RXNORM:11118,divalproex,0.281,1
+76,PheCode:333.3,tics and choreas,0.279,1
+46,RXNORM:61381,olanzapine,0.263,1
+37,RXNORM:36437,sertraline,0.26,1
+67,PheCode:295,schizophrenia and other psychotic disorders,0.259,1
+28,PheCode:291,other specified nonpsychotic and/or transient mental disorders,0.258,1
+45,RXNORM:35636,risperidone,0.258,1
+40,RXNORM:114477,levetiracetam,0.256,1
+43,PheCode:532,dysphagia,0.247,1
+58,RXNORM:2418,cholecalciferol,0.244,1
+44,PheCode:292.6,hallucinations,0.243,1
+65,RXNORM:43611,latanoprost,0.243,1
+63,PheCode:433.3,cerebral ischemia,0.241,1
+61,PheCode:781,symptoms involving nervous and musculoskeletal systems,0.24,1
+50,PheCode:295.2,paranoid disorders,0.238,1
+54,RXNORM:17767,amlodipine,0.234,1
+19,PheCode:291.4,specific nonpsychotic mental disorders due to brain damage,0.233,1
+23,PheCode:292.1,aphasia/speech disturbance,0.233,1
+55,RXNORM:5093,haloperidol,0.233,1
+75,PheCode:348,other conditions of brain,0.23,0
+71,RXNORM:6711,melatonin,0.228,0
+70,PheCode:433.21,"cerebral artery occlusion, with cerebral infarction",0.226,0
+27,RXNORM:40036,benzethonium chloride,0.223,0
+49,PheCode:1015,effects of other external causes,0.223,0
+53,RXNORM:221147,polyethylene glycol 3350,0.221,0
+35,PheCode:264.2,failure to thrive (childhood),0.22,0
+74,PheCode:362.29,macular degeneration (senile) of retina nos,0.219,0
+77,PheCode:276.11,hyperosmolality and/or hypernatremia,0.219,0
+73,PheCode:798,malaise and fatigue,0.218,0
+52,PheCode:591,urinary tract infection,0.217,0
+51,PheCode:430.2,intracerebral hemorrhage,0.215,0
+68,PheCode:818,intracranial hemorrhage (injury),0.213,0
+26,PheCode:331,other cerebral degenerations,0.212,0
+66,PheCode:345,"epilepsy, recurrent seizures, convulsions",0.21,0
+17,RXNORM:19737,bromfenac,0.209,0
+18,PheCode:389,hearing loss,0.207,0
+69,PheCode:430,intracranial hemorrhage,0.204,0
+59,RXNORM:1191,aspirin,0.203,0
+62,RXNORM:321988,escitalopram,0.202,0
+64,RXNORM:10737,trazodone,0.202,0
